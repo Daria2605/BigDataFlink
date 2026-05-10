@@ -1,0 +1,3 @@
+/app/src/main/java/ru/bigdata/flink/SalesRecord.java
+/app/src/main/java/ru/bigdata/flink/SalesStarJob.java
+/app/src/main/java/ru/bigdata/flink/SalesStarSink.java
